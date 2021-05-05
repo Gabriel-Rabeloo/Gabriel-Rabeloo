@@ -2,7 +2,7 @@
 
 👨🏾‍🎓 Professional qualification in Database Administration by Etec
 
-👨‍💻 I'm currently improving my skills with JavaScript, React.js, Node.js, and SQL/NoSQL Databases
+👨🏾‍💻Alsow, I'm improving my skills with JavaScript, React.js, Node.js, and SQL/NoSQL Databases
 
 ✔️ My focus is in aplications back-end
 
