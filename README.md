@@ -1,4 +1,4 @@
-# 🙅🏽‍♂️ Welcome to Profile!
+# 🙅🏽‍♂️ Welcome my to Profile!
 
 👋 I'm currently studying Analysis and Systems Development at Fatec
 
