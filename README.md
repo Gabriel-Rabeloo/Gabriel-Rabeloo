@@ -4,7 +4,7 @@
 
 👨🏾‍🎓 Professional qualification in Database Administration by Etec
 
-👨🏾‍💻Alsow, I'm improving my skills with JavaScript, TypeScript, React.js, Next.js, Node.js, GraphQl, and SQL/NoSQL Databases
+👨🏾‍💻Also, I'm improving my skills with JavaScript, TypeScript, React.js, Next.js, Node.js, GraphQl, and SQL/NoSQL Databases
 
 📧 Email: gabriiel.rabeloo@gmail.com
 
