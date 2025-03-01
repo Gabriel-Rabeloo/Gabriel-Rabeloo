@@ -1,21 +1,6 @@
 # Gabriel Rabelo – Full Stack Developer
 
-Welcome to my GitHub! I'm a passionate and results-driven Full Stack Developer with over four years of experience, currently specializing in TypeScript, Node.js, React.js, Vue.js, MongoDB, and PostgreSQL. I thrive in dynamic environments and love optimizing systems for better performance and scalability.
-
-Feel free to explore my repositories, and if you have any questions or just want to connect, don’t hesitate to reach out!
-
-[LinkedIn](https://www.linkedin.com/in/gabrielrabelo) | [Email](mailto:gabriiel.rabeloo@gmail.com)
-
----
-
-## 🚀 Career Summary
-
-With a solid background in software development, I've transitioned from intern to Middle Full Stack Developer. My expertise spans a variety of technologies, including building and maintaining high-performance applications, optimizing data processing, and automating workflows. I specialize in developing scalable solutions, implementing CI/CD pipelines, and working with cloud infrastructures.
-
-### Key Highlights:
-- Optimized interactive maps using Leaflet, MapLibre, and MapBox.
-- Led application migrations to AWS Serverless environments.
-- Automated CI/CD workflows using GitHub Actions and Bitbucket Pipelines.
+I'm a Full Stack Developer with 4+ years of experience, specializing in TypeScript, Node.js, React.js, Vue.js, MongoDB, and PostgreSQL. I’m passionate about building scalable and high-performance applications.
 
 ---
 
@@ -23,7 +8,7 @@ With a solid background in software development, I've transitioned from intern t
 
 ### **Languages & Frameworks:**
 - TypeScript, JavaScript, Python
-- Node.js (Express, Nest.js), React.js, Vue.js
+- Node.js (Express, Nest.js), React.js (Next.js), Vue.js (Nuxt), ExtJS
 
 ### **Testing & Quality Assurance:**
 - Jest, Mocha, Chai
@@ -38,4 +23,12 @@ With a solid background in software development, I've transitioned from intern t
 - Leaflet, MapLibre, MapBox
 
 ### **Advanced Concepts:**
-- Node.js Streams, Serverless Architecture, AWS Lambda
+- Node.js Streams, Serverless Architecture, AWS Lambda, Web Scraping
+
+---
+
+## 📞 Contact
+- [LinkedIn](https://www.linkedin.com/in/gabrielrabelo)
+- [Email](mailto:gabriiel.rabeloo@gmail.com)
+
+Feel free to reach out for collaborations or questions!
